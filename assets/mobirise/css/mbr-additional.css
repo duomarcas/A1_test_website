@@ -2246,55 +2246,46 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #232323;
 }
-.cid-sbt4HhY9FC {
-  padding-top: 30px;
-  padding-bottom: 90px;
+.cid-scH4RX21UG {
+  padding-top: 0px;
+  padding-bottom: 60px;
   background-color: #ffffff;
   overflow: hidden;
   box-sizing: border-box;
 }
-.cid-sbt4HhY9FC .mbr-slider .carousel-control {
+.cid-scH4RX21UG .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-sbt4HhY9FC .mbr-slider .carousel-control-prev {
+.cid-scH4RX21UG .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-sbt4HhY9FC .mbr-slider .carousel-control-next {
+.cid-scH4RX21UG .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-sbt4HhY9FC .mbr-slider .modal-body .close {
+.cid-scH4RX21UG .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-sbt4HhY9FC .row > .row {
-  display: block;
-}
-.cid-sbt4HhY9FC .mbr-gallery-item {
-  width: 100%;
-}
-.cid-sbt4HhY9FC .mbr-gallery-item > div::before {
+.cid-scH4RX21UG .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background: #232323;
+  background: #8f8f8f;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-sbt4HhY9FC .mbr-gallery-item > div {
-  position: relative;
-}
-.cid-sbt4HhY9FC .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-scH4RX21UG .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-sbt4HhY9FC .mbr-gallery-item > div:hover:before {
+.cid-scH4RX21UG .mbr-gallery-item > div:hover:before {
   opacity: 0 !important;
 }
-.cid-sbt4HhY9FC .mbr-gallery-title {
+.cid-scH4RX21UG .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2304,7 +2295,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-sbt4HhY9FC .mbr-gallery-title:before {
+.cid-scH4RX21UG .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -2312,10 +2303,13 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #232323 !important;
+  background: #8f8f8f !important;
   opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-scH4RX21UG .mbr-gallery-item > div > span {
+  text-align: left;
 }
 .cid-sbnIahpsXw {
   padding-top: 45px;
