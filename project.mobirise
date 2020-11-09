@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A1",
-    "currentPage": "home.html",
+    "currentPage": "portafolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2689,7 +2689,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -2735,13 +2735,26 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/beforeandafter-1-960x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beforeandafter-1-960x1920-800x1600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/baf-b-960x1920.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/baf-b-960x1920-800x1600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
